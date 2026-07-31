@@ -1,0 +1,14 @@
+services:
+  etl:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: etl_homework
+
+    working_dir: /app
+
+    volumes:
+      - .:/app
+
+    command: python main.py

@@ -1,0 +1,466 @@
+Name,UserPrincipal,Role,Title,Location,Department
+Ciprian Dogaru,Ciprian.Dogaru@endava.com,owner,Discipline Lead,Romania - Pitesti - Pitesti Business Center,Development
+Daniela Haliga,Daniela.Haliga@endava.com,owner,Senior Agile Project Manager,Romania - Iasi - Palas UBC1,Project Delivery Management
+Adina Gheorghevici,Adina.Gheorghevici@endava.com,owner,Senior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Adrian Matean,Adrian.Matean@endava.com,owner,Head of Development,Romania - Cluj-Napoca - United Business Center,Development
+Bogdan Darabaneanu,Bogdan.Darabaneanu@endava.com,owner,Head of Testing,Romania - Iasi - Palas UBC1,Testing
+Stefana Ghetu,Stefana.Ghetu@endava.com,owner,Head of Development,Romania - Iasi - Palas UBC1,Development
+Oana Macean,Oana.Macean@endava.com,owner,Delivery Manager,Romania - Timisoara - United Business Center 0,Project Delivery Management
+Rodica Carjan-Buliga,Rodica.Buliga@endava.com,owner,Communications Consultant,Romania - Brasov - Brasov Office,People
+Ioana Corina Magirescu,IoanaCorina.Magirescu@endava.com,owner,Senior Communications Specialist,Romania - Brasov - Brasov Office,People
+Petrisor Dima,Petrisor.Dima@endava.com,owner,Head of Analysis,Romania - Brasov - Brasov Office,Analysis
+Attila Szasz,Attila.Szasz@endava.com,owner,Senior Architect,Romania - Targu Mures - Targu Mures Office,Architecture
+Andreea Cojocaru,andreeaangela.cojocaru@endava.com,owner,AM Consultant,Romania - Bucharest - U-Center,Applications Management
+Roxana Nicoleta Briciag,Roxana-Nicoleta.Briciag@endava.com,owner,Learning & Organizational Development Specialist,Romania - Various - Homebased,People
+Mariana Apastinei,Mariana.Apastinei@endava.com,owner,Senior Test Consultant,Romania - Suceava - Suceava Office,Testing
+Carmina Bernat,Carmina.Bernat@endava.com,owner,Agile Project Manager,Romania - Targu Mures - Targu Mures Office,Project Delivery Management
+Marian Nicolae,Marian.Nicolae@endava.com,member,Development Consultant,Romania - Pitesti - Pitesti Business Center,Development
+Andreea Vaman Parvu,Andreea.Parvu@endava.com,member,SVP Growth and Development,Romania - Cluj-Napoca - United Business Center,Strategy
+Bogdan Andrei,Bogdan.Andrei@endava.com,member,Principal Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Ionut Ganea,Ionut.Ganea@endava.com,member,Senior Developer,Romania - Targu Mures - Targu Mures Office,Development
+Denisa Haloiu,Denisa.Haloiu@endava.com,member,Development Consultant,Romania - Cluj-Napoca - United Business Center,Development
+Paul Paraschivescu,Paul.Paraschivescu@endava.com,member,Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Vlad Vesa,Vlad.Vesa@endava.com,member,Head of Testing,Romania - Cluj-Napoca - United Business Center,Testing
+Ecaterina Trosin,Ecaterina.Trosin@endava.com,member,Development Consultant,Romania - Iasi - Palas UBC1,Development
+Ovidiu Spinean,Ovidiu.Spinean@endava.com,member,DU Manager,Romania - Cluj-Napoca - United Business Center,Project Delivery Management
+Andreea Ilea,Andreea.Ilea@endava.com,member,Agile Coach,Romania - Cluj-Napoca - United Business Center C1,Project Delivery Management
+Radu Petrea,Radu.Petrea@endava.com,member,Principal Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Barna Barabasi,Barna.Barabasi@endava.com,member,Senior Developer,Romania - Targu Mures - Targu Mures Office,Development
+Ciprian Serbu,Ciprian.Serbu@endava.com,member,Principal Development Consultant,Romania - Cluj-Napoca - United Business Center,Development
+Gabriel Preda,Gabriel.Preda@endava.com,member,Principal Data Scientist,Romania - Bucharest - U-Center,Data and AI
+Dan Riza,Dan.Riza@endava.com,member,Discipline Lead,Romania - Cluj-Napoca - United Business Center,Development
+Alice Tache,Alice.Tache@endava.com,member,Senior Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Elena Sardjoska,Elena.Sardjoska@endava.com,member,Senior Communications Consultant,North Macedonia - Skopje - Kan Building,People
+Florin Pop,Florin.Pop@endava.com,member,Principal Data Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Adriana Schiopu,Adriana.Schiopu@endava.com,member,Head of Applications Management,Romania - Iasi - Palas UBC1,Applications Management
+Francesco Giovane,Francesco.Giovane@endava.com,member,Country Manager,Romania - Bucharest - U-Center,Project Delivery Management
+Liviu Pavelescu,Liviu.Pavelescu@endava.com,member,Senior Development Consultant,Romania - Iasi - Palas UBC1,Development
+Elena Costea,Elena.Costea@endava.com,member,Client Partner,Romania - Bucharest - U-Center,Commercial
+Roxana Florescu,Roxana.Florescu@endava.com,member,Talent Acquisition Lead,Romania - Bucharest - U-Center,People
+Alina Morosac,alina.morosac@endava.com,member,People Partner,Romania - Iasi - Palas UBC1,People
+Mihai Popescu,Mihai.Popescu@endava.com,member,Data Architect,Romania - Bucharest - U-Center,Data and AI
+Cristian Bobocel,Cristian.Bobocel@endava.com,member,Senior Development Lead,Romania - Pitesti - Pitesti Business Center,Development
+Serban Costandache,Serban.Costandache@endava.com,member,Senior Data Scientist,Romania - Iasi - Palas UBC1,Data and AI
+Denisa Seician,Denisa.Seician@endava.com,member,Senior Communications Consultant,Romania - Cluj-Napoca - United Business Center,People
+Ovidiu Faur,Ovidiu.Faur@endava.com,member,Principal Development Consultant,Romania - Cluj-Napoca - United Business Center,Development
+Teodora Gheorghias Chirita,Teodora.Gheorghias@endava.com,member,Discipline Lead,Romania - Bucharest - U-Center,Business Platforms
+Adina Rotaru,Adina.Rotaru@endava.com,member,Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Andreea Chiran,Andreea.Chiran@endava.com,member,Head of Business Platforms,Romania - Bucharest - U-Center,Business Platforms
+Silviu Marcu,Silviu.Marcu@endava.com,member,Principal Development Consultant,Romania - Cluj-Napoca - United Business Center C1,Development
+Adina Gabriela Stavar,Adina.Stavar@endava.com,member,Principal Data Analyst,Romania - Bucharest - U-Center,Data and AI
+Alexandru Popa,Alexandru.Popa@endava.com,member,Senior Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Adelina Elena Ciudin,Adelina.Ciudin@endava.com,member,People Partner,Romania - Bucharest - U-Center,People
+Ciprian Amaritei,Ciprian.Amaritei@endava.com,member,Head of Creative Services,Romania - Iasi - Palas UBC1,Creative Services
+Miroslav Cojocari,Miroslav.Cojocari@endava.com,member,Senior Data Scientist,Romania - Iasi - Palas UBC1,Data and AI
+Silvia Mesesan Schmitz,Silvia.Cojocariu@endava.com,member,Senior Business Analyst,Romania - Brasov - Brasov Office,Analysis
+Vasile Onitiu,Vasile.Onitiu@endava.com,member,Senior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Adrian Iancu,Adrian.Iancu@endava.com,member,Head of Development,Romania - Bucharest - U-Center,Development
+Bogdan Marza Ivanov,Bogdan.Marza@endava.com,member,Data Consultant,Romania - Bucharest - U-Center,Data and AI
+Alina Covaci-Ciornei,Alina.Covaci-Ciornei@endava.com,member,Learning & Organizational Development Consultant,Romania - Iasi - Palas E5,People
+George Constantin,George.Constantin@endava.com,member,Senior Development Consultant,Romania - Bucharest - U-Center,Development
+Voicu Stanese,Voicu.Stanese@endava.com,member,Development Consultant,Romania - Cluj-Napoca - United Business Center,Development
+Radu Pinzaru,Radu.Pinzaru@endava.com,member,Head of Data & AI,Romania - Iasi - Palas UBC1,Data and AI
+Ana Maria Ferencz,AnaMaria.Ferencz@endava.com,member,Data Consultant,Romania - Brasov - Brasov Office,Data and AI
+Veronica Micle,Veronica.Micle@endava.com,member,Senior Data Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Catalin Pisoiu,Catalin.Pisoiu@endava.com,member,Principal Development Consultant,Romania - Timisoara - United Business Center 0,Development
+Ioana Sitaru,Ioana.Sitaru@endava.com,member,Senior Data Scientist,Romania - Iasi - Palas UBC1,Data and AI
+Doina Mirela Anghel,Doina.Anghel@endava.com,member,Senior Data Analysis Consultant,Romania - Bucharest - U-Center,Data and AI
+Andrei Popovici,Andrei.Popovici@endava.com,member,Senior Development Consultant,Romania - Iasi - Palas UBC1,Development
+Bianca Pristavu,Bianca.Pristavu@endava.com,member,Senior Engagement Associate,Romania - Pitesti - Pitesti Business Center,People
+Iulian Luca,Iulian.Luca@endava.com,member,Senior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Eduard Popa,Eduard.Popa@endava.com,member,Senior Data Architect,Romania - Bucharest - U-Center,Data and AI
+Mihai Ovidiu Tirsa,Ovidiu.Tirsa@endava.com,member,Senior Development Consultant,Romania - Bucharest - U-Center,Development
+Vlad Brateanu,Vlad.Brateanu@endava.com,member,Data Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Adalbert Songott,Adalbert.Songott@endava.com,member,Data Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Eugeniu Spinu,EugeniuI.Spinu@endava.com,member,Data Science Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Viorel Marian Stan,Viorel.Stan@endava.com,member,Senior Developer,Romania - Pitesti - Pitesti Business Center,Development
+Dragos Gherasim,Dragos.Gherasim@endava.com,member,Senior Data Consultant,Romania - Iasi - Palas UBC1,Data and AI
+Iulia Mihaela Iordan,Iulia.Iordan@endava.com,member,Discipline Lead,Romania - Bucharest - U-Center,Business Platforms
+Anca Birsan,Anca.Birsan@endava.com,member,Senior Communications Lead,Romania - Bucharest - U-Center,People
+Carmen Ionela Mamaliga,Carmen.Mamaliga@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Iulian Aurel Cozma,Iulian.Cozma@endava.com,member,Data Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Lorena Ioana Mitelut,Lorena.Mitelut@endava.com,member,Senior Developer,Romania - Brasov - Brasov Office,Development
+Ioana Barbu,Ioana.Barbu@endava.com,member,Agile Project Manager,Romania - Brasov - Brasov Office,Project Delivery Management
+Sonia Pipa,Sonia.Pipa@endava.com,member,Data Science Consultant,Romania - Bucharest - U-Center,Data and AI
+Madalin Ciprian Petrila,Madalin.Petrila@endava.com,member,Senior Tester,Romania - Iasi - Palas UBC1,Testing
+Corina Savu,Corina.Savu@endava.com,member,Learning & Organizational Development Lead,Romania - Brasov - Brasov Office,People
+Carmen Vintila,Carmen.Vintila@endava.com,member,Senior Learning & Organizational Development Associate,Romania - Pitesti - Pitesti Business Center,People
+Vasile Tudorel Arion,Tudor.Arion@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andreea Nicoleta Vezeteu,Andreea.Vezeteu@endava.com,member,Business Analyst,Romania - Brasov - Brasov Office,Analysis
+Catalin Raul Halic,Catalin.Halic@endava.com,member,Development Consultant,Romania - Timisoara - United Business Center 0,Development
+Simona Voiasciuc,Simona.Voiasciuc@endava.com,member,Senior Tester,Romania - Suceava - Suceava Office,Testing
+Dan Andrei Mircea,DanAndrei.Mircea@endava.com,member,Data Scientist,Romania - Cluj-Napoca - United Business Center,Data and AI
+Florin Magureanu,Florin.Magureanu@endava.com,member,Discipline Lead,Romania - Cluj-Napoca - United Business Center,Development
+Denis-Alexandru Antonescu,Denis-Alexandru.Antonescu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Aniela Alexandra Nastase,Aniela-Alexandra.Nastase@endava.com,member,Senior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ionut Vlad Cira,Ionut-Vlad.Cira@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Noemi Szidonia Szilagyi,Noemi-Szidonia.Csegezi@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Floarea Pitu,Floarea.Pitu@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Silviu Marian Galan,Silviu-Marian.Galan@endava.com,member,Senior Developer,Romania - Iasi - Palas UBC1,Development
+Ruxandra Elena Preda,Ruxandra-Elena.Preda@endava.com,member,Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Dennis Nicolae Farkas,Dennis-Nicolae.Farkas@endava.com,member,Developer,Romania - Brasov - Brasov Office,Development
+Stefan Corici,Stefan.Corici@endava.com,member,Senior Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Benjamin Hegyi,Benjamin.Hegyi@endava.com,member,Developer,Romania - Targu Mures - Targu Mures Office,Development
+Petru Gemene,Petru.Gemene@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Tiberiu Octavian Popa,Tiberiu-Octavian.Popa@endava.com,member,Data Consultant,Romania - Cluj-Napoca - United Business Center,Data and AI
+Adelina Panaite,Adelina.Panaite@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Svetlana Sura,Svetlana.Sura@endava.com,member,Data Consultant,Romania - Bucharest - U-Center,Data and AI
+George Husac,George.Husac@endava.com,member,Developer,Romania - Iasi - Palas UBC1,Development
+Marius Ionut Gociman,MariusIonut.Gociman@endava.com,member,Developer,Romania - Brasov - Brasov Office,Development
+Razvan Florin Frandes,Razvan-Florin.Frandes@endava.com,member,Tester,Romania - Targu Mures - Targu Mures Office,Testing
+Raluca Hazi,Raluca.Hazi@endava.com,member,Senior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Ciprian Aghenitei,Ciprian.Aghenitei@endava.com,member,Senior Developer,Romania - Suceava - Suceava Office,Development
+Ioana Stan,Ioana.Stan@endava.com,member,Test Consultant,Romania - Suceava - Suceava Office,Testing
+Lehel Botond Csergedi,Lehel.Csergedi@endava.com,member,Senior Developer,Romania - Targu Mures - Targu Mures Office,Development
+George Lucian Costin,GeorgeLucian.Costin@endava.com,member,Data Consultant,Romania - Iasi - Palas E5,Data and AI
+Ruxandra Oltean,Ruxandra.Oltean@endava.com,member,Senior Developer,Romania - Targu Mures - Targu Mures Office,Development
+Andrei Zsoldos,Andrei.Zsoldos@endava.com,member,Senior Developer,Romania - Brasov - Brasov Office,Development
+Mihail Silviu Sandovici,Mihail.Sandovici@endava.com,member,Senior Developer,Romania - Brasov - Brasov Office,Development
+Andreea Nesteriuc,Andreea.Ghergu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Constantin Bogdan Moga,Constantin-Bogdan.Moga@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Raul Gabriel Chiorean,RaulGabriel.Chiorean@endava.com,member,Developer,Romania - Targu Mures - Targu Mures Office,Development
+Alexandru Scrob,Alexandru.Scrob@endava.com,member,Development Consultant,Romania - Cluj-Napoca - United Business Center,Development
+Cristina Nita,Cristina.Nita@endava.com,member,Senior Developer,Romania - Brasov - Brasov Office,Development
+Madalina Marales,Madalina.Lazar@endava.com,member,Development Consultant,Romania - Brasov - Brasov Office,Development
+Andreea Arhip,Andreea.Apriotese@endava.com,member,Developer,Romania - Brasov - Brasov Office,Development
+Ciprian Stefan Dalaban,CiprianStefan.Dalaban@endava.com,member,Developer,Romania - Brasov - Brasov Office,Development
+Gabriela Neagu,Gabriela.Neagu@endava.com,member,Data Scientist,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Ciprian Huiban,Alexandru-Ciprian.Huiban@endava.com,member,Senior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Cosmin Ionut Stachie,Cosmin.Stachie@endava.com,member,Data Scientist,Romania - Brasov - Brasov Office,Data and AI
+Bogdan Adrian Musat,Bogdan-Adrian.Musat@endava.com,member,Senior Data Scientist,Romania - Brasov - Brasov Office,Data and AI
+Cristian Nicolae Blaga,Cristian-Nicolae.Blaga@endava.com,member,Development Consultant,Romania - Cluj-Napoca - United Business Center,Development
+Sergiu Atomi,Atomi.Sergiu@endava.com,member,Data Consultant,Romania - Brasov - Brasov Office,Data and AI
+Madalina Birtu,Madalina.Birtu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Laurentiu Fratila,Laurentiu.Fratila@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Stefan Liute,Stefan.Liute@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Daria Lupu Dima,Daria.Lupu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Gheorghe-Cristian Terovan,Gheorghe-Cristian.Terovan@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Alessia-Elena Rados,Alessia-Elena.Rados@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Andra-Maria Petcu,Andra-Maria.Petcu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Darius-Cristian Gherle,Darius-Cristian.Gherle@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Stefan-Daniel Ochian,Stefan-Daniel.Ochian@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Robert-Viorel Lazarov,Robert-Viorel.Lazarov@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Rafael Andries,Rafael.Andries@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Daniel-Ionel Beg,Daniel-Ionel.Beg@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Tiberiu Rabi,Tiberiu.Rabi@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Matei Tatar,Matei.Tatar@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Iasmina Pagu,Iasmina-Andra.Pagu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Mihnea-Alexandru Pele,Mihnea-Alexandru.Pele@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Robert Negre,Robert.Negre@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Patric Caliman,Patric.Caliman@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Fabian Iordache,Fabian.Iordache@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Nicola-Diana Sincaru,Nicola-Diana.Sincaru@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Andrei Vataselu,andrei.vataselu@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Alexandru Cinipa,Alexandru.Cinipa@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Gabriela-Sidonia Ciontolac,Gabriela-Sidonia.Ciontolac@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Andrei Apostol,Andrei.Apostol@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Alin Constantin Florescu,Alin-Constantin.Florescu@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Tiberiu Gabriel Suditu,Tiberiu-Gabriel.Suditu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Florina Eugenia Hategan,Florina---Eugenia.Hategan@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Patricia Costras,Patricia.Costras@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Radu Nicolae,Radu-Mihai.Nicoale@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Robert Cristian,Robert.Cristian@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Madalina Puia,Madalina.Puia@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Sebastian Popa,Sebastian.Popa2@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Alexandru Edves,Alexandru.Edves@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Alexandru Duta,Alexandru.Duta2@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Oana-Maria Danciu,Oana-Maria.Danciu@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Ioana Marc,Ioana.Marc2@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Celia Ciurchil-Giurgiu,Celia.Ciurchil@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Victor Valentin Vladulescu,Victor-Valentin.Vladulescu@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Stefan-Claudiu Bulintis,Stefan-Claudiu.Bulintis@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Arthur Negosanu,Arthur.Negosanu@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Sorin Cristian Miron,Sorin-Cristian.Miron@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Carmen-Gabriela Nadragea,Carmen-Gabriela.Nadragea@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+George-Catalin Ghiold,George-Catalin.Ghiold@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Iustin-Mihai Stanciu,Iustin-Mihai.Stanciu@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+George Nicolae Botos,George-Nicolae.Botos@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Lavinia Avram,Lavinia.Avram@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+George Andrei Necula,George-Andrei.Necula@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Mihai-Alexandru Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Ionut Birsan,Ionut.Birsan@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Costina Vanghele,Costina.Vanghele@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Andrei-Alexandru Midus,Andrei-Alexandru.Midus@endava.com,member,Data Engineer,Romania - Pitesti - Pitesti Business Center,Data and AI
+Catalin George Adrian Otet,Catalin-George-Adrian.Otet@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Denis-Mihai Mateas,Denis-Mihai.Mateas@endava.com,member,Data Engineer,Romania - Timisoara - United Business Center 0,Data and AI
+Maria-Ioana Fuerea,Maria-Ioana.Fuerea@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Andreea-Raluca Neagu,Andreea-Raluca.Neagu@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+George Patrasc,George.Patrasc@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Bogdan Gargu,Bogdan.Gargu@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Denis Ivan,Denis.Ivan@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Bogdan Patrania,Bogdan.Patrania@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Florin Nita,Florin.Nita@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Constantin Voicu,Constantin.Voicu@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Virgil Cimpean,Virgil.Cimpean@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Mirela-Magdalena Catrina,Mirela-Magdalena.Catrina@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Darius Margarit,Darius.Margarit@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Robert-Cosmin Tudorache,Robert-Cosmin.Tudorache@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Cosmin-Nicusor Brumariu,Cosmin-Nicusor.Brumariu@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Valentin Alexe,Valentin.Alexe@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Razvan Niculae,razvan.niculae@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Alexandru Chelaru,Alexandru.Chelaru@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Alexandru Pestritu,Alexandru.Pestritu@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Vlad-Stefan Sas,Vlad-Stefan.Sas@endava.com,member,Data Engineer,Romania - Brasov - Brasov Office,Data and AI
+Danut Emrah Dima,danut-emrah.dima@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Cosmin Gabriel Mirea,Cosmin-Gabriel.Mirea@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Rares Agachi,Rares.Agachi@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Alexandru Cezar Son,Alexandru-Cezar.Son@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Angel David Palihovici,Angel-David.Palihovici@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Alexandru Alin Potanga,Alexandru-Alin.Potanga@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Rares Anton Brezeanu,Rares-Anton.Brezeanu@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Anca Elena Ilie,Anca-Elena.Ilie@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andreea Marina Son,Andreea-Marina.Son@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Vlad Cojocaru,Vlad.Cojocaru@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Razvan Azoitei,Razvan.Azoitei@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Rares Dascalu,Rares.Dascalu@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Andreea Maria Monete,Andreea-Maria.Monete@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Cosmin Carp,Cosmin.Carp@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Adelin Andrei Fulop,Adelin-Andrei.Fulop@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Cosmin Chirazi,Cosmin.Chirazi@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Razvan Dumitru,Razvan.Dumitru@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Vlad V Muresan,Vlad.Muresan2@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Flora Balogh,Flora.Balogh@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Stefan Nicolae Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Andrei Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Ruben Daniel Pasca,Ruben-Daniel.Pasca@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Costin Manolescu,Costin.Manolescu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Alexandru Mihai Matei,Alexandru-Mihai.Matei@endava.com,member,Junior Data Engineer 2,Romania - Bucharest - U-Center,Data and AI
+Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Robert Alexandru Badea,Robert-Alexandru.Badea@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Dan Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Raul Birsan,Raul.Birsan@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandra Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Raul Gabriel Chiorean,Raul-Gabriel.Chiorean@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Reka Katalin Darko,Reka-Katalin.Darko@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Rares Ciprian Balan,Rares-Ciprian.Balan@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Cosmin Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Mihai Alexandru Ionel,Mihai-Alexandru.Ionel@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Alina Trincu,Alina.Trincu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Mihnea Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+George Stefan Bodogae,George-Stefan.Bodogae@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Camelia Stoica,Camelia.Stoica@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Adrian Visan,Adrian.Visan@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Marcos Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Teodor Badarcea,Teodor.Badarcea@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Bianca Maria Lazar,Bianca-Maria.Lazar@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+David Postolea,David.Postolea@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Ana Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,member,Junior Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Ariana Casandra Olaru,Ariana-Casandra.Olaru@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Sebastian Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandru Lazar,Alexandru.Lazar@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Remus Mihai Prodan,Remus-Mihai.Prodan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Maria Camelia Raicu,Maria-Camelia.Raicu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandra Zamfir,Alexandra.Zamfir@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andrei Titus Pavel,andrei-titus.pavel@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Andrei Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Diana Cristina Mocan,Diana-Cristina.Mocan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Laura Rusanescu,Laura.Rusanescu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Robert Erno Eminovici,Robert-Erno.Eminovici@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Denisa Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Mozes Csaszar,Mozes.Csaszar@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Vlad Andrei Groza,Vlad-Andrei.Groza@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandru Topan-Farcau,Alexandru.Topan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Timotei Cristian Morar,Timotei-Cristian.Morar@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Vlad Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Radu Ioan Maris,Radu-Ioan.Maris@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Madalina Daiana Gligan,Madalina-Daiana.Gligan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Mihai Alexandru Militaru,Mihai-Alexandru.Militaru@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Daniela Maria Pascan,Daniela-Maria.Pascan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Catalin Festeu,Catalin.Festeu@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Bogdan Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Raul Mihai Rusu,Raul-Mihai.Rusu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Daniel Rosu,Daniel.Rosu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Ioana Botezatu,Ioana.Botezatu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Robert Fedus,Robert.Fedus@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+George Iulian Stoian,George-Iulian.Stoian@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Darius Dinu,Darius.Dinu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Raluca Elisa Butiurca,Raluca-Elisa.Butiurca@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Tudor Muntean,Tudor.Muntean@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Gabriel Firisar,Gabriel.Firisar@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Serban Marian Precup,Serban-Marian.Precup@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Laszlo Carlos Fodor,Laszlo-Carlos.Fodor@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Cornelia Cojocari,Cornelia.Cojocari@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Darius Cosmin Vararean,Darius-Cosmin.Vararean@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Manuel Lazar,Manuel.Lazar@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Darius Fratila,Darius.Fratila@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Rita Timea Torok,Rita-Timea.Torok@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Csilla Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,member,Junior Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Mihnea Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,member,Junior Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Octavian Paul Ilies,Octavian-Paul.Ilies@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Diandra Fechita,Diandra.Fechita@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Denisa Maria Gorea,Denisa-Maria.Gorea@endava.com,member,Junior Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Huba Nemet,Huba.Nemet@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Zoltan Balint,Zoltan.Balint2@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Vlad Marian Pitariu,Vlad-Marian.Pitariu@endava.com,member,Junior Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Vasile Meghesan,Vasile.Meghesan@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Mihaly Richard Teutsch,Mihaly-Richard.Teutsch@endava.com,member,Junior Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Daniel Rotaru,Daniel.Rotaru@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Nicolae Vasile Veciunca,Nicolae-Vasile.Veciunca@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Botond Ors Solyom,Botond-Ors.Solyom@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Ioana Alexa,Ioana.Alexa@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Andrei Tudor Grumazescu,Andrei-Tudor.Grumazescu@endava.com,member,Data Engineer,Romania - Targu Mures - Targu Mures Office,Data and AI
+Mihai Cristian Tabarcea,Mihai-Cristian.Tabarcea@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Emanuela Lupancu,Emanuela.Lupancu@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Silviu Vasilica Luta,Silviu-Vasilica.Luta@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Gabriela Casandra Pitu,Gabriela-Casandra.Pitu@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Lucian Vatamanu,Lucian.Vatamanu@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Andrei Andries,Andrei.Andries@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Dumitru Andrei Iroftei,Dumitru-Andrei.Iroftei@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Beniamin Cioban,Beniamin.Cioban@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Bogdan Ionut Tibuleac,Bogdan-Ionut.Tibuleac@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Cristiana Ioana Apastinei,Cristiana-Ioana.Apastinei@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Iuliana Raluca Butnariu,Iuliana-Raluca.Butnariu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Silviu Mihail Pavel,Silviu-Mihail.Pavel@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Daniela Munteanu,Daniela.Munteanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Laura Andrada Ciobanu,Laura-Andrada.Ciobanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Rares Mihoci,Rares.Mihoci@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Vlad Baranceanu,Vlad.Baranceanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Andreea Cront,Andreea.Cront@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Stefan Cotos,Stefan.Cotos@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Daniel Antoniu Dumitru,Daniel-Antoniu.Dumitru@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Gabriel Cazan,Alexandru.Cazan@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Panainte,Alexandru.Panainte@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Denis Roca,Denis.Roca@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ioan Agape,Ioan.Agape@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Mirea,Alexandru.Mirea@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Adriana Maria Vadean,Adriana-Maria.Vadean@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandru Serban,Alexandru.Serban2@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Rodica Elena Rosca,Rodica-Elena.Rosca@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Irina Morosanu,Irina.Morosanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Baba,Alexandru.Baba@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Octavian Cojocariu,Octavian.Cojocariu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Adrian Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Bogdan Vasile Spilevoi,Bogdan-Vasile.Spilevoi@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Cristian Ghiuta,Cristian.Ghiuta@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Denisa Ibanescu,Denisa.Ibanescu@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Rares Stefan Cazan,Rares-Stefan.Cazan@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Gabriela Miruna Stan,Gabriela-Miruna.Stan@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Tudor Mihai,Tudor.Mihai@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Anca Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Zagan,Alexandru.Zagan@endava.com,member,Junior Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Andrei L Popovici,Andrei.Popovici2@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Cornel Adrian Pop,Cornel-Adrian.Pop@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Stefania Diana Stirbu,Stefania-Diana.Stirbu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Andrei Bogdan Aluculesei,Andrei-Bogdan.Aluculesei@endava.com,member,Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Luka Popovici,Luka.Popovici@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Andrei Alin Socoteala,Andrei-Alin.Socoteala@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Adina Denisa Horj,Adina-Denisa.Horj@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Teodora Maximiuc,Teodora.Maximiuc@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Serafim Uliuliuc,Serafim.Uliuliuc@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Cosmin Felecanu,Cosmin.Felecanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ana Ciobanu,Ana.Ciobanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Maria Madalina Olaru,Maria-Madalina.Olaru@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Cristian Grajdeanu,Alexandru-Cristian.Grajdeanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Sebastian Ionel Filipovici,Sebastian-Ionel.Filipovici@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Emma Simina Muresan,Emma-Simina.Muresan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Andrei Tudor Mirza,Andrei-Tudor.Mirza@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Anton Calin Stroia,Anton-Calin.Stroia@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Raluca Roiban,Raluca.Roiban@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Dragos Ionut Talaba,Dragos-Ionut.Talaba@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Rares Muresan,Rares.Muresan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandru Marian Armanu,Alexandru-Marian.Armanu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Teodor Leahu,Teodor.Leahu@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andreea Grecu,Andreea.Grecu2@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ioan Sebastian Muresan,Ioan-Sebastian.Muresan@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Dragos Alexandru Ion,Dragos-Alexandru.Ion@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Dragos Vatra,Dragos.Vatra@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Aron Domokos Telegdy,Aron.Telegdy@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Tudor Leonte,Tudor.Leonte@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Andrei Margelatu,Andrei.Margelatu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Mihai Maciuc,Mihai.Maciuc@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Iuliana Elena Rusu,Iuliana-Elena.Rusu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Cezara Teofana Aprofirei,Cezara-Teofana.Aprofirei@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Andrei George Avram,Andrei-George.Avram@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Luigi Emanuel Arama,Luigi-Emanuel.Arama@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Radu Ioan Stoica,Radu-Ioan.Stoica@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Tarcan,Alexandru.Tarcan@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Eduard Stefan Mariniuc,Eduard-Stefan.Mariniuc@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Mihnea Amihailesei,Mihnea.Amihailesei@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Zosin,Alexandru.Zosin@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Burlica,Alexandru.Burlica@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Rares Gabriel Margarint,Rares-Gabriel.Margarint@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Sanda Dobrenco,Sanda.Dobrenco@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Irina Vasilita,Irina.Vasilita@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Iulius Stefan Ambros,Iulius-Stefan.Ambros@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Dumitru Ionita,Alex.Ionita@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Andrei Mihnea,Andrei.Mihnea@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Polina Ciumac,Polina.Ciumac@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Paul Valentin Vela,Paul-Valentin.Vela@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Emanuel Luculescu,Emanuel.Luculescu@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Rafael Ionut Stefanache,Rafael-Ionut.Stefanache@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Dragos Badarau,Dragos.Badarau@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Miruna Curduman,Miruna.Curduman@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Dragos Maxim,Dragos.Maxim@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Sergiu Ungureanu,Sergiu.Ungureanu2@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ioana Alexia Popa,Ioana-Alexia.Popa@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Sabin Andrei Popa,Sabin-Andrei.Popa@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Marius Beschieru,Marius.Beschieru@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Stefan Stescu,Stefan.Stescu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Calin Ciobanu,Calin.Ciobanu@endava.com,member,Junior Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Radu Branici,Radu.Branici@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Alexandru Bardasu,Alexandru.Bardasu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Stefan Gabriel Verde,Stefan-Gabriel.Verde@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Daria Craciun,Daria.Craciun@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Vlad Ionut Guriuc,Vlad-Ionut.Guriuc@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Sabin Chirila,Sabin.Chirila@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Alexandra Simona Danca,Alexandra-Simona.Danca@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Stefan Tiberiu Paduraru,Stefan-Tiberiu.Paduraru@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Razvan Petru Leonte,Razvan-Petru.Leonte@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Liviu Istrate,Liviu.Istrate2@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Veronica Caplea,Veronica.Caplea@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+David Serban,David.Serban@endava.com,member,Junior Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Adelina Patlatii,Adelina.Patlatii@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Lorena Maria Buzea,Lorena-Maria.Buzea@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Andrada Maria Tinta,Andrada-Maria.Tinta@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Ionut Popescu,Ionut.Popescu@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Robert Catalin Franciuc,Robert-Catalin.Franciuc@endava.com,member,Junior Data Engineer,Romania - Suceava - Suceava Office,Data and AI
+Denisa Lutic,Denisa.Lutic@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Theodor Cristian Gheorghe,Theodor-Cristian.Gheorghe@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Delia Tudor,Delia.Tudor@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Alin Avram,Alin.Avram@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Madalina Demian,Madalina.Demian@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Catalin Ursu,Catalin.Ursu@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Rares Alexandru Iancu,Rares-Alexandru.Iancu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Vlad Muresan,Vlad.Muresan3@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Ilinca Maria Popovici,Ilinca-Maria.Popovici@endava.com,member,Data Engineer,Romania - Cluj-Napoca - United Business Center,Data and AI
+Cerasela Nicola Soare,Cerasela-Nicola.Soare@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Alexandru Catrinescu,Alexandru.Catrinescu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andrei Ionascu,Andrei.Ionascu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Armin Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Filip Craciun,Filip.Craciun@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andrei Octavian Minca,Andrei-Octavian.Minca@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+George Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Vlad Badulescu,Vlad.Badulescu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Simona Boicu,Simona.Boicu@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Alex Rares Roman,Alex-Rares.Roman@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Eduard George Stan,Eduard-George.Stan@endava.com,member,Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Andreea Cacenschi,Andreea.Cacenschi@endava.com,member,Junior Data Engineer,Romania - Bucharest - U-Center,Data and AI
+Luisa Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,member,Data Engineer,Romania - Iasi - Palas UBC1,Data and AI
+Mihai Negrea,Mihai.Negrea@endava.com,member,Business Platforms Developer,Romania - Bucharest - U-Center,Business Platforms
+Alexandru Toma,Alexandru.Toma@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Tiberiu Iatan,Tiberiu.Iatan@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Claudiu Marinescu,Claudiu.Marinescu@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Matei Micu,Matei-Mihai.Micu@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Bianca Popescu,Bianca.Popescu@endava.com,member,Junior Business Platforms Specialist,Romania - Bucharest - U-Center,Business Platforms
+Iuliana Luca,iuliana.luca_student.upt.ro#EXT#@endava.onmicrosoft.com,guest,,,
