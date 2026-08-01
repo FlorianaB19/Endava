@@ -1,0 +1,396 @@
+## Title: 1984
+
+Author: George Orwell
+
+Summary:
+A dystopian novel set in a society ruled by the Party and Big Brother. Citizens are constantly watched through surveillance, history is rewritten, and independent thinking is considered a crime. Winston Smith secretly rebels against the regime in search of truth and freedom.
+
+Themes:
+- dystopia
+- freedom
+- surveillance
+- dictatorship
+- politics
+- oppression
+- rebellion
+
+--------------------------------------------------
+
+## Title: The Hobbit
+
+Author: J.R.R. Tolkien
+
+Summary:
+Bilbo Baggins leaves his peaceful life to join a group of dwarves on a dangerous quest to recover their treasure from the dragon Smaug. Along the journey he discovers courage, loyalty, and friendship while facing magical creatures.
+
+Themes:
+- fantasy
+- friendship
+- adventure
+- dragons
+- courage
+- magic
+- journey
+
+--------------------------------------------------
+
+## Title: Harry Potter and the Philosopher's Stone
+
+Author: J.K. Rowling
+
+Summary:
+Harry Potter discovers that he is a wizard and begins his education at Hogwarts. Together with Ron and Hermione, he uncovers the mystery surrounding the Philosopher's Stone while confronting the dark wizard Voldemort.
+
+Themes:
+- magic
+- friendship
+- school
+- fantasy
+- adventure
+- good versus evil
+
+--------------------------------------------------
+
+## Title: The Lord of the Rings
+
+Author: J.R.R. Tolkien
+
+Summary:
+Frodo Baggins begins an epic mission to destroy the One Ring before it can be used by the Dark Lord Sauron. His journey is filled with sacrifice, friendship, battles, and hope.
+
+Themes:
+- fantasy
+- friendship
+- war
+- adventure
+- courage
+- sacrifice
+- good versus evil
+
+--------------------------------------------------
+
+## Title: Dune
+
+Author: Frank Herbert
+
+Summary:
+Paul Atreides becomes involved in a struggle for power on the desert planet Arrakis. Politics, religion, ecology, and destiny shape his rise as a legendary leader.
+
+Themes:
+- science fiction
+- politics
+- war
+- destiny
+- leadership
+- power
+- desert
+
+--------------------------------------------------
+
+## Title: Animal Farm
+
+Author: George Orwell
+
+Summary:
+Farm animals rebel against their human owner hoping to build an equal society. Over time, the new leaders become just as oppressive, illustrating the dangers of corruption and dictatorship.
+
+Themes:
+- politics
+- dictatorship
+- corruption
+- satire
+- freedom
+- revolution
+
+--------------------------------------------------
+
+## Title: Brave New World
+
+Author: Aldous Huxley
+
+Summary:
+A futuristic society maintains stability through technology, conditioning, and consumerism. Individual freedom and emotions are sacrificed in exchange for comfort and order.
+
+Themes:
+- dystopia
+- technology
+- freedom
+- science fiction
+- control
+- society
+
+--------------------------------------------------
+
+## Title: Fahrenheit 451
+
+Author: Ray Bradbury
+
+Summary:
+Books are forbidden and burned to prevent independent thinking. Fireman Guy Montag begins questioning the society he serves and discovers the importance of knowledge.
+
+Themes:
+- books
+- censorship
+- freedom
+- dystopia
+- knowledge
+- society
+
+--------------------------------------------------
+
+## Title: The Chronicles of Narnia
+
+Author: C.S. Lewis
+
+Summary:
+Four children discover the magical world of Narnia, where they join Aslan in the battle against the White Witch. Their adventure is filled with courage, friendship, and sacrifice.
+
+Themes:
+- fantasy
+- adventure
+- magic
+- friendship
+- good versus evil
+
+--------------------------------------------------
+
+## Title: The Alchemist
+
+Author: Paulo Coelho
+
+Summary:
+Santiago, a young shepherd, travels across deserts searching for treasure. Along the way he learns about destiny, dreams, courage, and discovering one's true purpose.
+
+Themes:
+- dreams
+- destiny
+- adventure
+- spirituality
+- personal growth
+
+
+--------------------------------------------------
+
+## Title: Why We Sleep
+
+Author:
+Matthew Walker
+
+Genre:
+Health, Science
+
+Summary:
+Matthew Walker explains the essential role of sleep in physical and mental health. The book explores how sleep affects memory, learning, emotions, immunity, and overall well-being while providing scientific evidence about the consequences of sleep deprivation.
+
+Themes:
+- health
+- sleep
+- medicine
+- neuroscience
+- brain
+- well-being
+- lifestyle
+- science
+
+Mood:
+Educational, informative
+
+Recommended for:
+Readers interested in health, medicine, neuroscience, and improving their lifestyle.
+
+Keywords:
+health, sleep, brain, medicine, recovery, wellness, biology, scientific research
+
+
+--------------------------------------------------
+
+## Title: Atomic Habits
+
+Author:
+James Clear
+
+Genre:
+Personal Development
+
+Summary:
+Atomic Habits explains how small daily improvements can lead to remarkable long-term results. James Clear presents practical strategies for building good habits, breaking bad ones, and improving personal productivity.
+
+Themes:
+- habits
+- productivity
+- self improvement
+- psychology
+- discipline
+- motivation
+
+Mood:
+Inspirational, practical
+
+Recommended for:
+Readers interested in personal growth, productivity, and success.
+
+Keywords:
+habits, success, discipline, routine, goals, productivity
+
+
+
+--------------------------------------------------
+
+## Title: Dracula
+
+Author:
+Bram Stoker
+
+Genre:
+Horror
+
+Summary:
+Count Dracula leaves Transylvania in search of new victims in England. A group of determined individuals unite to stop the ancient vampire before darkness spreads across Europe.
+
+Themes:
+- horror
+- vampires
+- fear
+- gothic
+- mystery
+- supernatural
+
+Mood:
+Dark, suspenseful, frightening
+
+Recommended for:
+Readers who enjoy horror, gothic fiction, and supernatural stories.
+
+Keywords:
+vampire, horror, gothic, fear, blood, castle, monster
+
+
+
+--------------------------------------------------
+
+## Title: Frankenstein
+
+Author:
+Mary Shelley
+
+Genre:
+Science Fiction, Horror
+
+Summary:
+Victor Frankenstein creates artificial life through scientific experimentation. Horrified by his own creation, he abandons the creature, leading to tragedy and questions about ethics, science, and humanity.
+
+Themes:
+- science
+- ethics
+- horror
+- creation
+- humanity
+- responsibility
+
+Mood:
+Dark, philosophical
+
+Recommended for:
+Readers interested in science fiction, ethics, and horror.
+
+Keywords:
+monster, science, experiment, laboratory, horror, ethics
+
+
+
+--------------------------------------------------
+
+## Title: A Brief History of Time
+
+Author:
+Stephen Hawking
+
+Genre:
+Science
+
+Summary:
+Stephen Hawking explains complex scientific concepts such as black holes, the Big Bang, relativity, and the nature of the universe in an accessible way for general readers.
+
+Themes:
+- science
+- physics
+- astronomy
+- cosmology
+- universe
+- black holes
+
+Mood:
+Educational, fascinating
+
+Recommended for:
+Readers interested in science, astronomy, and physics.
+
+Keywords:
+physics, universe, cosmology, astronomy, black hole, Big Bang
+
+
+
+
+--------------------------------------------------
+
+## Title: Pride and Prejudice
+
+Author:
+Jane Austen
+
+Genre:
+Romance
+
+Summary:
+Elizabeth Bennet navigates family expectations, misunderstandings, and social class while developing a complex relationship with the wealthy Mr. Darcy.
+
+Themes:
+- romance
+- family
+- society
+- marriage
+- love
+- personal growth
+
+Mood:
+Romantic, elegant
+
+Recommended for:
+Readers who enjoy classic romance and character-driven stories.
+
+Keywords:
+love, marriage, romance, relationships, family
+
+
+--------------------------------------------------
+
+## Title: The Da Vinci Code
+
+Author:
+Dan Brown
+
+Genre:
+Mystery, Thriller
+
+Summary:
+Professor Robert Langdon investigates a murder in the Louvre Museum, uncovering a centuries-old conspiracy involving secret societies, religious history, and hidden symbols.
+
+Themes:
+- mystery
+- history
+- conspiracy
+- religion
+- investigation
+- thriller
+
+Mood:
+Suspenseful, fast-paced
+
+Recommended for:
+Readers who enjoy mysteries, thrillers, and historical puzzles.
+
+Keywords:
+mystery, conspiracy, symbols, investigation, thriller
+
+
+
