@@ -18,17 +18,52 @@ collection = client.get_collection("books")
 
 def search_books(query: str, n_results: int = 3):
     """
-    Search semantically for the closest books.
+    Performs semantic search and returns relevant books
+    together with their ChromaDB distances.
     """
 
-    query_embedding = create_embedding(query) #trasnfiorm the book into a vector representation using OpenAI embeddings!!!!!
+    MAX_DISTANCE = 1.25
+
+    query_embedding = create_embedding(query)
 
     results = collection.query(
         query_embeddings=[query_embedding],
-        n_results=n_results
+        n_results=n_results,
+        include=[
+            "documents",
+            "distances",
+            "metadatas"
+        ]
     )
 
-    return results["documents"][0]
+    retrieved_books = []
+
+    documents = results["documents"][0]
+    distances = results["distances"][0]
+    metadatas = results["metadatas"][0]
+
+    for document, distance, metadata in zip(
+        documents,
+        distances,
+        metadatas
+    ):
+
+        # Ignore weak semantic matches
+        if distance > MAX_DISTANCE:
+            continue
+
+        retrieved_books.append(
+            {
+                "title": metadata.get(
+                    "title",
+                    "Unknown"
+                ),
+                "document": document,
+                "distance": round(distance, 4)
+            }
+        )
+
+    return retrieved_books
 
 
 if __name__ == "__main__":

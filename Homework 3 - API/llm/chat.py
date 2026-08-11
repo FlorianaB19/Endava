@@ -1,161 +1,292 @@
-import re
+import json
 
 from openai import OpenAI
 
 from config import OPENAI_API_KEY
 from rag.retriever import search_books
-from llm.tools import get_summary_by_title
+from llm.tools import TOOLS, get_summary_by_title
+
 
 # OpenAI client
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 
-def build_context(documents: list[str]) -> str:
+def build_context(books: list[dict]) -> str:
     """
-    Transforms documents received from Chroma into a single context
-    """
-    return "\n\n".join(documents)
-
-
-def extract_title(answer: str) -> str | None:
-    """
-    It tries to extract the recommended title from the GPT response
+    Combines the documents retrieved from ChromaDB
+    into a single context for GPT.
     """
 
-    possible_titles = [
-        "1984",
-        "The Hobbit",
-        "Harry Potter and the Philosopher's Stone",
-        "The Lord of the Rings",
-        "Dune",
-        "Animal Farm",
-        "Brave New World",
-        "Fahrenheit 451",
-        "The Chronicles of Narnia",
-        "The Alchemist",
-        "Atomic Habits",
-        "Why We Sleep",
-        "Dracula",
-        "Frankenstein",
-        "A Brief History of Time",
-        "Pride and Prejudice",
-        "The Da Vinci Code"
-    ]
-
-    for title in possible_titles:
-        if title.lower() in answer.lower():
-            return title
-
-    return None
+    return "\n\n".join(
+        book["document"]
+        for book in books
+    )
 
 
-def recommend_book(question: str) -> str:
+def recommend_book(question: str) -> dict:
     """
-    Orchestrator RAG + GPT + Summary Tool
-    """
-    # RAG
-    documents = search_books(question) # go in rag/retriever and execute query_embeddings = ....
-    context = build_context(documents)
+    Smart Librarian orchestration:
 
-    # GPT recomand a book based on the context and the user question for
-    # GPT shouldnt invent books
+    1. Validate input
+    2. Retrieve relevant books using RAG
+    3. Ask GPT to select one book
+    4. GPT requests get_summary_by_title()
+    5. Python executes the requested tool
+    6. Tool result is returned to GPT
+    7. GPT generates the final answer
+    """
+
+    # =========================================================
+    # 1. INPUT VALIDATION
+    # =========================================================
+
+    question = question.strip()
+
+    if not question:
+        return {
+            "answer": "Please enter a question.",
+            "retrieved_books": []
+        }
+
+    if question.isdigit():
+        return {
+            "answer": (
+                "Please enter a meaningful question "
+                "about books instead of only numbers."
+            ),
+            "retrieved_books": []
+        }
+
+    if len(question) < 3:
+        return {
+            "answer": "Please enter a more descriptive question.",
+            "retrieved_books": []
+        }
+
+    # =========================================================
+    # 2. RAG RETRIEVAL
+    # =========================================================
+
+    books = search_books(
+        query=question,
+        n_results=3
+    )
+
+    if not books:
+        return {
+            "answer": (
+                "Sorry, I couldn't find any relevant book "
+                "for your request in the current library."
+            ),
+            "retrieved_books": []
+        }
+
+    context = build_context(books)
+
+    # =========================================================
+    # 3. FIRST GPT CALL
+    # =========================================================
+
     system_prompt = """
-You are Smart Librarian.
+You are Smart Librarian, an AI book recommendation assistant.
 
-Use ONLY the books from the provided context.
+You receive books retrieved from a local ChromaDB vector database.
 
-Recommend ONLY ONE book.
+Rules:
 
-Always mention the exact title.
-
-Do NOT invent books. 
+1. Use ONLY books from the provided context.
+2. Select exactly ONE book that best matches the user's request.
+3. Do NOT invent books.
+4. Do NOT invent summaries.
+5. After selecting the book, call get_summary_by_title.
+6. Pass the EXACT book title to the tool.
+7. The detailed summary must come from the tool.
 """
 
     user_prompt = f"""
-Context:
+Retrieved books:
 
 {context}
 
 User question:
 
 {question}
+
+Select the most appropriate book and retrieve its detailed summary.
 """
 
-    response = client.chat.completions.create(  # the first apel to  GPT 
+    messages = [
+        {
+            "role": "system",
+            "content": system_prompt
+        },
+        {
+            "role": "user",
+            "content": user_prompt
+        }
+    ]
 
+    response = client.chat.completions.create(
         model="gpt-4.1-mini",
-
         temperature=0.3,
-
-
-        messages=[
-            {
-                "role": "system",
-                "content": system_prompt
-            },
-            {
-                "role": "user",
-                "content": user_prompt
+        messages=messages,
+        tools=TOOLS,
+        tool_choice={
+            "type": "function",
+            "function": {
+                "name": "get_summary_by_title"
             }
-        ]
+        }
     )
 
-    recommendation = response.choices[0].message.content #extract the content of the response from GPT
+    assistant_message = response.choices[0].message
 
-    # Extract title
-    title = extract_title(recommendation)
+    # The assistant message contains the tool request.
+    messages.append(assistant_message)
 
-    if not title:
-        return recommendation
+    # =========================================================
+    # 4. CHECK TOOL CALL
+    # =========================================================
 
-    # Tool for receive the final book
-    summary = get_summary_by_title(title) 
+    if not assistant_message.tool_calls:
 
-    # GPT builds the final answer
-    final_prompt = f"""
-The recommended book is:
+        return {
+            "answer": (
+                assistant_message.content
+                or "No recommendation was generated."
+            ),
+            "retrieved_books": books
+        }
 
-{title}
+    selected_title = None
 
-Recommendation:
+    # =========================================================
+    # 5. EXECUTE TOOL
+    # =========================================================
 
-{recommendation}
+    for tool_call in assistant_message.tool_calls:
 
-Detailed summary:
+        if tool_call.function.name == "get_summary_by_title":
 
-{summary}
+            arguments = json.loads(
+                tool_call.function.arguments
+            )
 
-Create a friendly answer.
+            selected_title = arguments["title"]
 
-Structure:
+            # Temporary debug messages.
+            print("\n" + "=" * 60)
+            print("NATIVE FUNCTION CALLING")
+            print("=" * 60)
 
-1. Recommended Book
+            print(
+                "Tool requested:",
+                tool_call.function.name
+            )
 
-2. Why it matches
+            print(
+                "Book title:",
+                selected_title
+            )
 
-3. Detailed Summary
+            # Execute our LOCAL Python function.
+            summary = get_summary_by_title(
+                selected_title
+            )
+
+            print(
+                "Tool executed successfully."
+            )
+
+            print(
+                "Summary returned by tool:"
+            )
+
+            print(summary)
+
+            print("=" * 60 + "\n")
+
+            # Return the tool result to GPT.
+            messages.append(
+                {
+                    "role": "tool",
+                    "tool_call_id": tool_call.id,
+                    "content": summary
+                }
+            )
+
+    # =========================================================
+    # 6. FINAL INSTRUCTIONS FOR GPT
+    # =========================================================
+
+    messages.append(
+        {
+            "role": "system",
+            "content": """
+The tool has now returned the verified detailed summary.
+
+Generate the final Smart Librarian response.
+
+You MUST use this exact structure:
+
+### 1. Recommended Book
+
+Mention the exact book title and author.
+
+### 2. Why It Matches
+
+Explain briefly why this book matches the user's request,
+using the retrieved context.
+
+### 3. Detailed Summary
+
+Present the detailed summary returned by
+get_summary_by_title.
+
+Do not ask the user whether they want more information.
+
+Do not invent information that was not present
+in the retrieved context or tool result.
 """
-
-    final_response = client.chat.completions.create( # the second apel to GPT for format the final answer
-
-        model="gpt-4.1-mini",
-
-        temperature=0.3,
-
-        messages=[
-            {
-                "role": "system",
-                "content": "You are Smart Librarian."
-            },
-            {
-                "role": "user",
-                "content": final_prompt
-            }
-        ]
+        }
     )
 
-    return final_response.choices[0].message.content
+    # =========================================================
+    # 7. SECOND GPT CALL
+    # =========================================================
 
+    final_response = client.chat.completions.create(
+        model="gpt-4.1-mini",
+        temperature=0.3,
+        messages=messages
+    )
+
+    answer = (
+        final_response
+        .choices[0]
+        .message
+        .content
+    )
+
+    if not answer:
+        answer = (
+            "The recommendation was generated, "
+            "but the final response was empty."
+        )
+
+    # =========================================================
+    # 8. RETURN TO FASTAPI
+    # =========================================================
+
+    return {
+        "answer": answer,
+        "retrieved_books": books
+    }
+
+
+# =============================================================
+# CLI TEST
+# =============================================================
 
 if __name__ == "__main__":
 
@@ -166,21 +297,26 @@ if __name__ == "__main__":
 
     while True:
 
-        question = input("\nQuestion: ")
+        question = input("\nQuestion: ").strip()
 
         if question.lower() == "exit":
             break
 
         try:
 
-            answer = recommend_book(question)
+            result = recommend_book(question)
 
             print("\n")
             print("=" * 60)
-            print(answer)
+
+            # IMPORTANT:
+            # Print only the final answer,
+            # not the entire dictionary.
+            print(result["answer"])
+
             print("=" * 60)
 
-        except Exception as e:
+        except Exception as error:
 
             print("\nERROR:")
-            print(e)
+            print(error)

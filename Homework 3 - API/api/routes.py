@@ -3,23 +3,40 @@ from pydantic import BaseModel
 
 from llm.chat import recommend_book
 
+
 router = APIRouter()
 
 
-class ChatRequest(BaseModel):  # bcs we want to receive a json 
+class ChatRequest(BaseModel):
     question: str
+
+
+class RetrievedBook(BaseModel):
+    title: str
+    document: str
+    distance: float
 
 
 class ChatResponse(BaseModel):
     answer: str
+    retrieved_books: list[RetrievedBook]
 
 
-@router.post("/chat", response_model=ChatResponse) # creates an HTTP POST endpoint, available at /chat
-def chat(request: ChatRequest):
-    """
-    Receives the users question and returns the recommendation
-    """
+@router.post(
+    "/chat",
+    response_model=ChatResponse
+)
+def chat(
+    request: ChatRequest
+):
 
-    answer = recommend_book(request.question) # ednpoint receives the question 
+    result = recommend_book(
+        request.question
+    )
 
-    return ChatResponse(answer=answer)
+    return ChatResponse(
+        answer=result["answer"],
+        retrieved_books=result[
+            "retrieved_books"
+        ]
+    )

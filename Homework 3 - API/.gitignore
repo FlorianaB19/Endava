@@ -1,0 +1,33 @@
+# OpenAI API key / environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# ChromaDB generated database
+vector_db/
+
+# Generated audio files
+*.mp3
+*.wav
+*.m4a
+
+# User-generated feedback
+data/feedback.jsonl
+
+# Test / temporary files
+test_audio.mp3
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
