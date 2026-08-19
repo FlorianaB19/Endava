@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/prajwaldongre/top-dog-breeds-around-the-world/data
+
+https://www.kaggle.com/datasets/sujaykapadnis/dog-breeds/data
+https://www.kaggle.com/datasets/mexwell/dog-breeds-dataset
+https://tmfilho.github.io/akcdata/
